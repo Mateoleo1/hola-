@@ -1,0 +1,39 @@
+.menu{list-style: none;
+position:fixed;
+top: 45px;
+right: 34px;
+cursor: pointer 12;
+z-index: 10;
+
+
+
+
+}
+
+.link
+{
+    float: left; color: rgb(0, 255, 234); padding-top: 5px; padding-left: 9px; padding-right: 9px; padding-bottom: 5px; font-family: fantasy; font-size: 200px
+
+
+
+}
+
+.links:hover { 
+    background-color: rgb(21, 255, 0);
+
+
+}
+
+#ho{
+text-decoration-color: rgb(255, 0, 0);
+
+background-color: blanchedalmond;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
+
+
+
+
+}
+
